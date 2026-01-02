@@ -1,8 +1,5 @@
-# polar2garmin
-polar tcx files converter to tcx format, which is eatable by garmin connect.
+# Polar to Garmin Converter
 
-+# Polar to Garmin Converter
- 
 +Converts and cleans TCX files exported from Polar sports watches for compatibility with Garmin devices.
 +
 +## Features
